@@ -1,4 +1,4 @@
-# app_project
+# Linux_App
 
 A new Flutter project.
 
